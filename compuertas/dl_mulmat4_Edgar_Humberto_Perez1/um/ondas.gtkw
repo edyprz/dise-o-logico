@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Fri Mar 10 21:51:26 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/mulmat4/tb_um.vcd"
+[dumpfile_mtime] "Fri Mar 10 21:49:19 2017"
+[dumpfile_size] 2507
+[savefile] "/home/edgar/compuertas/mulmat4/ondas.gtkw"
+[timestart] 82700000
+[size] 1366 704
+[pos] -89 -89
+*-25.901985 389600000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 106
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@28
+botoncin
+botonmi
+botonqi
+botonsin
+ledcout
+ledmio
+ledqs
+ledsout
+[pattern_trace] 1
+[pattern_trace] 0

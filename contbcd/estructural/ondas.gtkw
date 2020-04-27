@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Tue Jul 18 07:37:45 2017
+[*]
+[dumpfile] "/home/edgar/dl17/contbcd/estructural/tb_contbcd7seg.vcd"
+[dumpfile_mtime] "Tue Jul 18 07:37:30 2017"
+[dumpfile_size] 2806
+[savefile] "/home/edgar/dl17/contbcd/estructural/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-24.749865 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+clk
+@22
+sal[6:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Mon Mar  6 15:16:04 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/sumres/tb_sumres.vcd"
+[dumpfile_mtime] "Mon Mar  6 15:07:15 2017"
+[dumpfile_size] 9981
+[savefile] "/home/edgar/compuertas/sumres/ondas.gtkw"
+[timestart] 0
+[size] 1366 704
+[pos] -51 -1
+*-26.288061 124100000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 148
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@28
+botonsub
+botonx[3:0]
+botony[3:0]
+ledcout
+ledn
+leds[3:0]
+ledv
+ledz
+[pattern_trace] 1
+[pattern_trace] 0

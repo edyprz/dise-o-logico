@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Sat Mar 25 06:41:06 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/reg74194/funcional/tb_reg74194.vcd"
+[dumpfile_mtime] "Sat Mar 25 06:40:37 2017"
+[dumpfile_size] 1906
+[savefile] "/home/edgar/compuertas/reg74194/funcional/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 143 0
+*-26.865343 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+clk
+sel[1:0]
+@22
+ent[3:0]
+@28
+edd
+edi
+@29
+sal[3:0]
+@28
+sdd
+sdi
+[pattern_trace] 1
+[pattern_trace] 0

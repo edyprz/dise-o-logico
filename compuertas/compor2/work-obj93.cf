@@ -1,0 +1,7 @@
+v 4
+file . "tb_compor2.vhdl" "35f095e4313c5801bc6a2b768ea9b7e0322b0dbb" "20170126081015.251":
+  entity tb_compor2 at 5( 97) + 0 on 13;
+  architecture beh of tb_compor2 at 8( 143) + 0 on 14;
+file . "compor2.vhdl" "1b241e2638deaf52bfd275f4104367c54d717d5f" "20170126081015.193":
+  entity compor2 at 4( 84) + 0 on 11;
+  architecture beh of compor2 at 13( 243) + 0 on 12;

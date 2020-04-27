@@ -1,0 +1,4 @@
+v 4
+file . "ttl7404.vhdl" "854999a5dcc1c353b56eda1355ede4da6647e2ca" "20170126193541.252":
+  entity ttl7404 at 4( 63) + 0 on 11;
+  architecture beh of ttl7404 at 25( 327) + 0 on 12;

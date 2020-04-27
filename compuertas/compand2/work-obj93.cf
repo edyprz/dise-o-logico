@@ -1,0 +1,7 @@
+v 4
+file . "tb_compand2.vhdl" "0c7ccd7563f23216ab47c8b01e84ccc67f727115" "20170130020247.177":
+  entity tb_compand2 at 5( 98) + 0 on 13;
+  architecture beh of tb_compand2 at 8( 146) + 0 on 14;
+file . "compand2.vhdl" "fbb8632e15391e09d30652fef867ff93fed287cd" "20170130020247.126":
+  entity compand2 at 4( 85) + 0 on 11;
+  architecture beh of compand2 at 13( 246) + 0 on 12;

@@ -1,0 +1,21 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Mon Feb 20 13:33:07 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/decobin2hex7seg/estructural/tb_decobin2hex7seg.vcd"
+[dumpfile_mtime] "Mon Feb 20 13:32:24 2017"
+[dumpfile_size] 14025
+[savefile] "/home/edgar/compuertas/decobin2hex7seg/estructural/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-27.550762 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@22
+botones[3:0]
+leds[6:0]
+[pattern_trace] 1
+[pattern_trace] 0

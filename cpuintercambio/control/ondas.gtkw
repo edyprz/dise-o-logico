@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Thu Jul 27 06:16:09 2017
+[*]
+[dumpfile] "/home/edgar/dl17/cpuintercambio/tb_cpuswap.vcd"
+[dumpfile_mtime] "Thu Jul 27 06:15:28 2017"
+[dumpfile_size] 4943
+[savefile] "/home/edgar/dl17/cpuintercambio/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-27.462584 130000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 106
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+clk
+@22
+inst[5:0]
+@28
+done
+[pattern_trace] 1
+[pattern_trace] 0

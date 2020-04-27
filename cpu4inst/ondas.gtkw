@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Thu Jul 27 07:27:57 2017
+[*]
+[dumpfile] "/home/edgar/dl17/cpu4inst/tb_cpu4inst.vcd"
+[dumpfile_mtime] "Thu Jul 27 07:27:12 2017"
+[dumpfile_size] 6719
+[savefile] "/home/edgar/dl17/cpu4inst/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.517900 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+clk
+done
+@29
+inst[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Mon Feb  6 01:02:30 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/lab04/nosimp/03_pr/tb_circuito.vcd"
+[dumpfile_mtime] "Mon Feb  6 01:01:22 2017"
+[dumpfile_size] 550
+[savefile] "/home/edgar/compuertas/lab04/nosimp/03_pr/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.749865 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+botona
+botonb
+botonc
+ledf
+[pattern_trace] 1
+[pattern_trace] 0

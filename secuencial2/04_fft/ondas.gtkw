@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Sun Mar 19 03:57:50 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/secuencial2/01_ffjk/tb_sec2ffjk.vcd"
+[dumpfile_mtime] "Sun Mar 19 03:57:33 2017"
+[dumpfile_size] 3426
+[savefile] "/home/edgar/compuertas/secuencial2/01_ffjk/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.901985 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+botonclk
+botonw
+ledz
+[pattern_trace] 1
+[pattern_trace] 0

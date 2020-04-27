@@ -1,0 +1,10 @@
+v 4
+file . "tb_adder4.vhdl" "90f087feec9d671bc8795fde2fa000d3f261e13f" "20170706050922.363":
+  entity tb_adder4 at 5( 102) + 0 on 15;
+  architecture beh of tb_adder4 at 8( 146) + 0 on 16;
+file . "fulladd.vhdl" "e43b1d6270117354f5ba5d960ec8a4dc4e682e11" "20170706050921.928":
+  entity fulladd at 4( 84) + 0 on 11;
+  architecture beh of fulladd at 14( 226) + 0 on 12;
+file . "adder4.vhdl" "8a89ab2b5f220af78326147f597469fd2ed636da" "20170706050922.249":
+  entity adder4 at 4( 89) + 0 on 13;
+  architecture beh of adder4 at 14( 286) + 0 on 14;

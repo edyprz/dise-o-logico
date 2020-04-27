@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Tue Feb 28 08:12:41 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/adder4/tb_adder4.vcd"
+[dumpfile_mtime] "Tue Feb 28 08:11:28 2017"
+[dumpfile_size] 1843
+[savefile] "/home/edgar/compuertas/adder4/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.843277 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+botoncin
+@22
+botonx[3:0]
+botony[3:0]
+ledr[3:0]
+@28
+ledcout
+[pattern_trace] 1
+[pattern_trace] 0

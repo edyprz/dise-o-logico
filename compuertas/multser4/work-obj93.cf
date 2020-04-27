@@ -1,0 +1,7 @@
+v 4
+file . "tb_regdd.vhdl" "755e067933fc497466787763211e783dfc431b2b" "20170721185456.523":
+  entity tb_regdd at 5( 113) + 0 on 13;
+  architecture beh of tb_regdd at 8( 155) + 0 on 14;
+file . "regdd.vhdl" "e2791d5f6aa3ae10663bb384ad13e9ffbad974d6" "20170721185456.400":
+  entity regdd at 3( 35) + 0 on 11;
+  architecture beh of regdd at 17( 380) + 0 on 12;

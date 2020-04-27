@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Mon Mar 13 07:13:54 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/flipflops/fft/tb_fft.vcd"
+[dumpfile_mtime] "Mon Mar 13 07:13:18 2017"
+[dumpfile_size] 831
+[savefile] "/home/edgar/compuertas/flipflops/fft/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.864510 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+botonclk
+botont
+ledq
+[pattern_trace] 1
+[pattern_trace] 0

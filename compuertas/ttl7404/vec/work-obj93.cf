@@ -1,0 +1,7 @@
+v 4
+file . "tb_circuito.vhdl" "da8de5e0f4c0200411da8dc62c8952357714f844" "20170207202624.863":
+  entity tb_circuito at 1( 0) + 0 on 13;
+  architecture beh of tb_circuito at 4( 48) + 0 on 14;
+file . "circuito.vhdl" "4f1bb86a5e73d40262be7d3c2ff85c31cec5a1a8" "20170207202615.238":
+  entity circuito at 1( 0) + 0 on 11;
+  architecture beh of circuito at 9( 117) + 0 on 12;

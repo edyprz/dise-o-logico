@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.78 (w)1999-2016 BSI
+[*] Tue Jun  6 17:57:23 2017
+[*]
+[dumpfile] "/home/edgar/compuertas/ccomp/compxor2/04_proceso/tb_compxor2.vcd"
+[dumpfile_mtime] "Tue Jun  6 17:56:49 2017"
+[dumpfile_size] 494
+[savefile] "/home/edgar/compuertas/ccomp/compxor2/04_proceso/ondas.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-24.579941 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@29
+botony
+@28
+botonx
+ledf
+[pattern_trace] 1
+[pattern_trace] 0
